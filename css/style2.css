@@ -1,0 +1,54 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    background-color: silver;
+}
+
+li {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+a:visited {
+    color: lightcoral
+}
+
+ol, p {
+    color: lightcoral
+}
+
+h1 {
+    margin-left: 900px;
+    color: lightskyblue;
+    font-stretch: ultra-expanded;
+}
+
+ol {
+    margin-left: 800px;
+}
+
+surf {
+    align-items: center;
+}
+
+tableau {
+    text-align: center;
+}
+
+h4 {
+    margin-top: 0px;
+    color: lightcoral
+}
+
+.underline {text-decoration: underline;}
+
+.bold {font-weight: bold}
+
+.justify {text-align: justify;}
